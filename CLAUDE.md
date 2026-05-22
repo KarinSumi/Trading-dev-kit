@@ -14,4 +14,6 @@
 
 ## Presentation Preference (Critical)
 - **Format**: Always generate implementation plans, reviews, and walkthroughs as styled, interactive **HTML files** (`.html`) in the artifacts directory.
+- **Theme**: Use the **Claude Dark Mode** style as the default (creamy-white text `#f7f4ed` on `#141413` dark charcoal background, `#1e1e1c` cards, and Georgia serif headings).
 - **Reference**: Provide the direct local `file:///` URL links to the generated HTML documents in the chat responses instead of standard `.md` summaries.
+
